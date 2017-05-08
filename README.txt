@@ -1,4 +1,4 @@
-# TP_P2
+﻿# TP_P2
 TP Openclassroom - Git et Github - P2 Activité
 
 Le TP est le suivant :
@@ -11,4 +11,11 @@ Au moins 4 commits distincts montrant l’ajout puis la modification de certains
 Ce que j'ai fait:
 - J'ai utilisé le dernier Exo "anniversaire"
 - copier toute le répertoire
-- Je vais faire quelques adaptations pour arriver à au Moins 4 commits
+
+Pour faire au plu simple :
+- uniquement des adaptations du fichier Readme
+- tout d'abord changement de son suffixe
+- puis changement de son contenu
+
+(modif avec VIM)
+
