@@ -1,0 +1,45 @@
+﻿1/5/2017 DAniel 
+TP : réaliser une Page dynamique avec jQuery
+démarche :
+    
+    après la récupération du package
+    creation d'un espace "carte" html + CSS
+    creation d'une 1ère boite 
+   
+    pour les autres boites :
+        après différentes recherches, j'ai utilisé l'exemple du cours
+        ajout dynamique des li
+    
+    Dans le CSS
+        les mises en forme standard  
+    
+    Dans le jQuery
+        déclaration et utilisation des variables (pas facile à tester...)
+        On click : 
+        J'ai recherché les différentes options pour l'utiliser
+        je n'ai pas trouvé comment l'activer pour des li créés dynamiquement
+        j'ai donc gardé des boutons spécifiques dans la boite 1
+        
+    gestion des boutons
+        j'ai caché tous les boutons 
+        pour les afficher on fonction du click
+        
+    au dernier click
+        j'ai changé le fond 
+        j'ai ajouté la musique
+        
+    un click de "replay"
+        pour reprendre la mécanique du début
+        j'ai réduit au minimum le temps d'affichage après un click 
+            le but est d'éviter une création d'un autre li
+            car ce n'est pas prévu dans la supression des li
+            c'est certainement faisable ;-)
+    remarque :
+        je n'ai pas géré la taille de l'écran 
+	cela fonctionne ... sauf pour les petits écrans
+            
+            
+    
+    
+    
+    
