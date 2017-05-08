@@ -12,7 +12,7 @@ Ce que j'ai fait:
 - J'ai utilisé le dernier Exo "anniversaire"
 - copier toute le répertoire
 
-Pour faire au plu simple :
+Pour faire au plus simple :
 - uniquement des adaptations du fichier Readme
 - tout d'abord changement de son suffixe
 - puis changement de son contenu
